@@ -28,6 +28,13 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!-- PostgresSQL -->
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+
 		<!-- Liquibase -->
 		<dependency>
 			<groupId>org.liquibase</groupId>
